@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/salvage-atlas-wordmark.svg" alt="Salvage Atlas" width="410" />
+<img src="assets/salvage-atlas-wordmark-light-bg.png" alt="Salvage Atlas" width="410" />
 
 ### A global operating system for the recovery and reuse of valuable materials
 
