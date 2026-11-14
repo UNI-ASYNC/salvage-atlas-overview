@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/salvage-atlas-wordmark-light-bg.png" alt="Salvage Atlas" width="410" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/salvage-atlas-wordmark-dark-bg.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/salvage-atlas-wordmark-light-bg.png" />
+  <img src="assets/salvage-atlas-wordmark-dark-bg.png" alt="Salvage Atlas" width="560" />
+</picture>
 
 ### A global operating system for the recovery and reuse of valuable materials
 
