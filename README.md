@@ -61,7 +61,23 @@ We believe useful materials deserve a discoverable market, an understandable his
 
 Salvage Atlas is designed to work like ordinary business software. **No cryptocurrency wallet, token purchase, or blockchain knowledge is required for customers.**
 
-We're also **exploring integration with the Vitruveo blockchain** as a behind-the-scenes integrity and attestation layer for selected material provenance, transaction milestones, evidence records, and digital business achievements. These are future-facing design areas, **not live blockchain features or a declared investment partnership**.
+### Blockchain record rails — Vitruveo
+
+<a href="https://www.vitruveo.ai/ecosystem/brands">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.vitruveo.ai/brands/vitruveo/vitruveo-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.vitruveo.ai/brands/vitruveo/vitruveo-logo.svg" />
+    <img src="https://www.vitruveo.ai/brands/vitruveo/vitruveo-logo.svg" alt="Vitruveo blockchain" width="165" />
+  </picture>
+</a>
+
+Salvage Atlas **intends to use Vitruveo as underlying blockchain record-anchoring rails** for selected material histories, evidence commitments, transaction milestones, and digital business achievements. Customers use the regular Salvage Atlas application; any eligible chain activity is handled in the background.
+
+**Independent adoption, not a partnership:** Salvage Atlas is independently developed and operated. This planned integration does not imply sponsorship, endorsement, or a joint venture with Vitruveo or the Vertical Foundation. Blockchain features are being researched and have **not been deployed**.
+
+**Ecosystem contribution (proposed):** Salvage Atlas intends to allocate **1% of the platform fees it earns from physical-material sales**—not 1% of gross merchandise value—toward purchasing VTRU and directing it into VIBE. The mechanics remain to be finalized; this is a business intention, not an active distribution program or investment offer.
+
+*Vitruveo brand artwork is linked from its [official brand page](https://www.vitruveo.ai/ecosystem/brands) and remains the property of its respective owner.*
 
 The business remains independent. Its application, data, marketplace search, privacy controls, and conventional payment arrangements are not dependent on a blockchain.
 
